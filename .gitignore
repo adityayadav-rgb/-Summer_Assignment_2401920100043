@@ -1,0 +1,18 @@
+# Compiled Java
+*.class
+*.jar
+*.war
+*.ear
+out/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
